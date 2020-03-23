@@ -1,0 +1,14 @@
+{
+  "name": "@flexicon/gridsome-source-git-meta",
+  "version": "0.0.1",
+  "description": "Gridsome source plugin to add git information to the global metadata schema.",
+  "main": "index.js",
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gridsome-source",
+    "git"
+  ],
+  "author": "Mike Repec <mikerepec@gmail.com>",
+  "license": "MIT"
+}
